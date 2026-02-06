@@ -36,7 +36,7 @@ A complete community feed with threaded discussions and dynamic leaderboard, bui
 - Node.js 16+
 - PostgreSQL (optional, SQLite works for dev)
 
-### Option 1: Local Development (Recommended)
+### Local Development
 
 #### Backend Setup:
 ```bash
@@ -60,7 +60,7 @@ pip install -r requirements.txt
 # Setup database
 python manage.py migrate
 
-# Create superuser (optional)
+# Create superuser
 python manage.py createsuperuser
 # Username: admin
 # Email: admin@example.com
@@ -78,10 +78,6 @@ npm install
 
 # Start development server
 npm run dev
-Option 2: Docker Setup
-bash
-# Build and run with Docker Compose
-docker-compose up --build
 
 # Access the application
 # Frontend: http://localhost:3000
