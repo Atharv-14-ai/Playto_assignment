@@ -43,7 +43,7 @@ A complete community feed with threaded discussions and dynamic leaderboard, bui
 # Clone repository
 git clone https://github.com/Atharv-14-ai/Playto_assignment.git
 
-cd Playto-assignment
+cd Playto_assignment
 
 # Create virtual environment
 python -m venv venv
