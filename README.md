@@ -71,7 +71,7 @@ python manage.py runserver
 Frontend Setup:
 bash
 # Open new terminal
-cd playto-community-feed/frontend
+cd Playto_assignment/frontend
 
 # Install dependencies
 npm install
