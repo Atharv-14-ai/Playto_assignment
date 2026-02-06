@@ -41,7 +41,7 @@ A complete community feed with threaded discussions and dynamic leaderboard, bui
 #### Backend Setup:
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/playto-community-feed.git
+git clone https://github.com/Atharv-14-ai/Playto_assignment.git
 cd playto-community-feed/backend
 
 # Create virtual environment
